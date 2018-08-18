@@ -15,7 +15,7 @@ import java.util.Date;
  * 
  * </p>
  *
- * @author ke.long
+ * @author hao.liao
  * @since 2018-08-19
  */
 @TableName("base_info")

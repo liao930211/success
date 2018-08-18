@@ -8,7 +8,7 @@ import com.succ.entity.BaseInfo;
  *  Mapper 接口
  * </p>
  *
- * @author ke.long
+ * @author hao.liao
  * @since 2018-08-19
  */
 public interface BaseInfoDao extends BaseMapper<BaseInfo> {
